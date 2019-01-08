@@ -3,6 +3,7 @@
 ## 一、 摘要
 
 本文介绍Android中的IPC方式之一——AIDL。
+
 ---
 ## 二、 关于AIDL
 
@@ -228,6 +229,6 @@ public class MainActivity extends AppCompatActivity {
 ---
 ## 四、 参考文献
 
-- [aidl](https://baike.baidu.com/item/aidl)
+- [百度百科-aidl](https://baike.baidu.com/item/aidl)
 - [AIDL的使用、传递复杂对象以及回调客户端](https://www.jianshu.com/p/bc59061cc6fd)
 - [Android IPC机制(二):AIDL的基本使用方法](http://www.open-open.com/lib/view/open1460533944217.html)
